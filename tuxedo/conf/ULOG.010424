@@ -1,0 +1,8 @@
+205809.localhost.localdomain!tmboot.27206.2950255040.-2: 01-04-2024: client high water (), total client ()              
+205809.localhost.localdomain!tmboot.27206.2950255040.-2: 01-04-2024: Tuxedo Version 12.2.2.0.0, 64-bit
+205809.localhost.localdomain!tmboot.27206.2950255040.-2: LIBTUX_CAT:603: ERROR: TUXCONFIG file /home/oracle/tuxedo/conf/tuxconfig does not exist
+205809.localhost.localdomain!tmboot.27206.2950255040.-2: LIBTUX_CAT:588: ERROR: Unable to open TUXCONFIG file
+205809.localhost.localdomain!tmboot.27206.2950255040.-2: FATAL: internal error: CMDTUX_CAT:754: ERROR: error processing configuration file
+
+205809.localhost.localdomain!tmboot.27206.2950255040.-2: FATAL: internal error: CMDTUX_CAT:1360: ERROR: configuration file not found
+

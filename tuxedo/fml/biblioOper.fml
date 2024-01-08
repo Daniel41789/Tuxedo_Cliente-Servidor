@@ -1,0 +1,9 @@
+
+#Nombre id  tipo    flag    comentario
+#
+OPERUN  2040    float   -   Operador uno
+OPERDO  2050    float   -   Operador dos
+OPERTR  2060    float   -   Operador tres
+OPERCU  2070    float   -   Operador cuatro
+RESUL   2080    float   -   Resultado
+RESULD  2090    float   -   Resultado dos

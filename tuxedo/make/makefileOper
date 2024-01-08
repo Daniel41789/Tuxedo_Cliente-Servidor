@@ -1,0 +1,36 @@
+# Directorios/Rutas 
+BIN=../bin
+OBJ=../obj
+SRC=../src
+INC=../inc
+FML=../fml
+CC=cc
+
+# Generacion de Aplicacion
+all: campos_fml srvTuxedoOper cliTuxedoOper
+
+# Compilacion de Campos FML
+campos_fml: $(FML)/biblioOper.fml
+		mkfldhdr32 $(FML)/biblioOper.fml
+		mv biblioOper.fml.h $(INC)
+
+# Generacion de Servidores
+srvTuxedoOper: $(OBJ)/srvTuxedoOper.o
+		@echo Compilando el servidor srvTuxedoOper
+		CC="$(CC)" buildserver -v -f $(OBJ)/srvTuxedoOper.o -f "-I$(INC)" -o $(BIN)/srvTuxedoOper -s svcCalcAreaCirculo,svcCalcEcSegGrado,servCalcProdPunto
+
+# Generacion de Cliente
+cliTuxedoOper: $(OBJ)/cliTuxedoOper.o
+		@echo Compilando el cliente cliTuxedoOper
+		CC="$(CC)" buildclient -f $(OBJ)/cliTuxedoOper.o -o $(BIN)/cliTuxedoOper
+
+# Generacion de Ficheros Objeto
+$(OBJ)/srvTuxedoOper.o: $(SRC)/srvTuxedoOper.c
+		$(CC) -c -I$(TUXDIR)/include -I$(INC) $(SRC)/srvTuxedoOper.c -o $(OBJ)/srvTuxedoOper.o
+$(OBJ)/cliTuxedoOper.o: $(SRC)/cliTuxedoOper.c
+		$(CC) -c -I$(TUXDIR)/include -I$(INC) $(SRC)/cliTuxedoOper.c -o $(OBJ)/cliTuxedoOper.o
+
+# Borrado
+clean:
+	rm $(OBJ)/*.o $(BIN)/cliTuxedoOper $(BIN)/srvTuxedoOper
+			rm ../logs/ULOG*

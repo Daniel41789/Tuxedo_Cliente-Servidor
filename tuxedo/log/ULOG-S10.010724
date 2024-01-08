@@ -1,0 +1,339 @@
+185043.localhost.localdomain!tmloadcf.6688.1115025856.-2: 01-07-2024: client high water (0), total client (0)            
+185043.localhost.localdomain!tmloadcf.6688.1115025856.-2: 01-07-2024: Tuxedo Version 12.2.2.0.0, 64-bit
+185043.localhost.localdomain!tmloadcf.6688.1115025856.-2: CMDTUX_CAT:879: INFO: A new file system has been created. (size = 1276 512-byte blocks)
+185043.localhost.localdomain!tmloadcf.6688.1115025856.-2: CMDTUX_CAT:871: INFO: TUXCONFIG file /home/oracle/tuxedo/conf/tuxconfig has been created
+185109.localhost.localdomain!BBL.6778.1391100352.0: 01-07-2024: Tuxedo Version 12.2.2.0.0, 64-bit, Patch Level (none)
+185109.localhost.localdomain!BBL.6778.1391100352.0: LIBTUX_CAT:262: INFO: Standard main starting
+190348.localhost.localdomain!BBL.8675.3918234048.0: 01-07-2024: Tuxedo Version 12.2.2.0.0, 64-bit, Patch Level (none)
+190348.localhost.localdomain!BBL.8675.3918234048.0: LIBTUX_CAT:577: ERROR: Unable to register because the slot is already owned by another process
+190348.localhost.localdomain!BBL.8675.3918234048.0: LIBTUX_CAT:248: ERROR: System init function failed, Uunixerr = 
+190348.localhost.localdomain!BBL.8675.3918234048.0: CMDTUX_CAT:26: INFO: The BBL is exiting system
+190542.localhost.localdomain!BBL.8889.1846038976.0: 01-07-2024: Tuxedo Version 12.2.2.0.0, 64-bit, Patch Level (none)
+190542.localhost.localdomain!BBL.8889.1846038976.0: LIBTUX_CAT:577: ERROR: Unable to register because the slot is already owned by another process
+190542.localhost.localdomain!BBL.8889.1846038976.0: LIBTUX_CAT:248: ERROR: System init function failed, Uunixerr = 
+190542.localhost.localdomain!BBL.8889.1846038976.0: CMDTUX_CAT:26: INFO: The BBL is exiting system
+190629.localhost.localdomain!BBL.6778.1391100352.0: CMDTUX_CAT:26: INFO: The BBL is exiting system
+190640.localhost.localdomain!BBL.9022.1781023168.0: 01-07-2024: Tuxedo Version 12.2.2.0.0, 64-bit, Patch Level (none)
+190640.localhost.localdomain!BBL.9022.1781023168.0: LIBTUX_CAT:262: INFO: Standard main starting
+190922.localhost.localdomain!BBL.9022.1781023168.0: CMDTUX_CAT:26: INFO: The BBL is exiting system
+192024.localhost.localdomain!BBL.10273.3359158720.0: 01-07-2024: Tuxedo Version 12.2.2.0.0, 64-bit, Patch Level (none)
+192024.localhost.localdomain!BBL.10273.3359158720.0: LIBTUX_CAT:262: INFO: Standard main starting
+192110.localhost.localdomain!BBL.10273.3359158720.0: CMDTUX_CAT:26: INFO: The BBL is exiting system
+192129.localhost.localdomain!tmloadcf.10464.355885504.-2: 01-07-2024: Tuxedo Version 12.2.2.0.0, 64-bit
+192129.localhost.localdomain!tmloadcf.10464.355885504.-2: CMDTUX_CAT:872: INFO: TUXCONFIG file /home/oracle/tuxedo/conf/tuxconfig has been updated
+192204.localhost.localdomain!tmloadcf.10555.744976832.-2: 01-07-2024: Tuxedo Version 12.2.2.0.0, 64-bit
+192204.localhost.localdomain!tmloadcf.10555.744976832.-2: CMDTUX_CAT:872: INFO: TUXCONFIG file /home/oracle/tuxedo/conf/tuxconfig has been updated
+192215.localhost.localdomain!BBL.10604.1644392896.0: 01-07-2024: Tuxedo Version 12.2.2.0.0, 64-bit, Patch Level (none)
+192215.localhost.localdomain!BBL.10604.1644392896.0: LIBTUX_CAT:262: INFO: Standard main starting
+192215.localhost.localdomain!srvTuxedoOper.10612.270279104.0: 01-07-2024: Tuxedo Version 12.2.2.0.0, 64-bit
+192215.localhost.localdomain!srvTuxedoOper.10612.270279104.0: LIBTUX_CAT:262: INFO: Standard main starting
+192215.localhost.localdomain!srvTuxedoOper.10612.270279104.0: Iniciando srvTuxedo
+192652.localhost.localdomain!srvTuxedoOper.10612.270279104.0: LIBTUX_CAT:522: INFO: Default tpsvrdone() function used
+192655.localhost.localdomain!BBL.10604.1644392896.0: LIBTUX_CAT:216: WARN: Process 10786 died; removing from BB
+192655.localhost.localdomain!BBL.10604.1644392896.0: CMDTUX_CAT:26: INFO: The BBL is exiting system
+193008.localhost.localdomain!BBL.11814.2721829312.0: 01-07-2024: Tuxedo Version 12.2.2.0.0, 64-bit, Patch Level (none)
+193008.localhost.localdomain!BBL.11814.2721829312.0: LIBTUX_CAT:262: INFO: Standard main starting
+193008.localhost.localdomain!srvTuxedoOper.11831.994021824.0: 01-07-2024: Tuxedo Version 12.2.2.0.0, 64-bit
+193008.localhost.localdomain!srvTuxedoOper.11831.994021824.0: LIBTUX_CAT:262: INFO: Standard main starting
+193008.localhost.localdomain!srvTuxedoOper.11831.994021824.0: Iniciando srvTuxedo
+193117.localhost.localdomain!srvTuxedoOper.11831.994021824.0: LIBTUX_CAT:522: INFO: Default tpsvrdone() function used
+193120.localhost.localdomain!BBL.11814.2721829312.0: CMDTUX_CAT:26: INFO: The BBL is exiting system
+193341.localhost.localdomain!BBL.12462.3971436992.0: 01-07-2024: Tuxedo Version 12.2.2.0.0, 64-bit, Patch Level (none)
+193341.localhost.localdomain!BBL.12462.3971436992.0: LIBTUX_CAT:262: INFO: Standard main starting
+193341.localhost.localdomain!srvTuxedoOper.12469.3826254272.0: 01-07-2024: Tuxedo Version 12.2.2.0.0, 64-bit
+193341.localhost.localdomain!srvTuxedoOper.12469.3826254272.0: LIBTUX_CAT:262: INFO: Standard main starting
+193341.localhost.localdomain!srvTuxedoOper.12469.3826254272.0: Iniciando srvTuxedo
+193415.localhost.localdomain!srvTuxedoOper.12469.3826254272.0: LIBTUX_CAT:522: INFO: Default tpsvrdone() function used
+193418.localhost.localdomain!BBL.12462.3971436992.0: CMDTUX_CAT:26: INFO: The BBL is exiting system
+193435.localhost.localdomain!BBL.12758.844808640.0: 01-07-2024: Tuxedo Version 12.2.2.0.0, 64-bit, Patch Level (none)
+193435.localhost.localdomain!BBL.12758.844808640.0: LIBTUX_CAT:262: INFO: Standard main starting
+193435.localhost.localdomain!srvTuxedoOper.12766.3309343168.0: 01-07-2024: Tuxedo Version 12.2.2.0.0, 64-bit
+193435.localhost.localdomain!srvTuxedoOper.12766.3309343168.0: LIBTUX_CAT:262: INFO: Standard main starting
+193435.localhost.localdomain!srvTuxedoOper.12766.3309343168.0: Iniciando srvTuxedo
+193438.localhost.localdomain!srvTuxedoOper.12766.3309343168.0: LIBTUX_CAT:522: INFO: Default tpsvrdone() function used
+193441.localhost.localdomain!BBL.12758.844808640.0: CMDTUX_CAT:26: INFO: The BBL is exiting system
+193449.localhost.localdomain!tmloadcf.12829.2253345216.-2: 01-07-2024: Tuxedo Version 12.2.2.0.0, 64-bit
+193449.localhost.localdomain!tmloadcf.12829.2253345216.-2: CMDTUX_CAT:872: INFO: TUXCONFIG file /home/oracle/tuxedo/conf/tuxconfig has been updated
+193515.localhost.localdomain!BBL.12918.401424832.0: 01-07-2024: Tuxedo Version 12.2.2.0.0, 64-bit, Patch Level (none)
+193515.localhost.localdomain!BBL.12918.401424832.0: LIBTUX_CAT:262: INFO: Standard main starting
+193515.localhost.localdomain!srvTuxedoOper.12934.428626368.0: 01-07-2024: Tuxedo Version 12.2.2.0.0, 64-bit
+193515.localhost.localdomain!srvTuxedoOper.12934.428626368.0: LIBTUX_CAT:262: INFO: Standard main starting
+193515.localhost.localdomain!srvTuxedoOper.12934.428626368.0: Iniciando srvTuxedo
+193834.localhost.localdomain!srvTuxedoOper.12934.428626368.0: LIBTUX_CAT:522: INFO: Default tpsvrdone() function used
+193837.localhost.localdomain!BBL.12918.401424832.0: CMDTUX_CAT:26: INFO: The BBL is exiting system
+193852.localhost.localdomain!tmloadcf.13476.4284297664.-2: 01-07-2024: Tuxedo Version 12.2.2.0.0, 64-bit
+193852.localhost.localdomain!tmloadcf.13476.4284297664.-2: CMDTUX_CAT:872: INFO: TUXCONFIG file /home/oracle/tuxedo/conf/tuxconfig has been updated
+193900.localhost.localdomain!BBL.13522.3898200512.0: 01-07-2024: Tuxedo Version 12.2.2.0.0, 64-bit, Patch Level (none)
+193900.localhost.localdomain!BBL.13522.3898200512.0: LIBTUX_CAT:262: INFO: Standard main starting
+193900.localhost.localdomain!srvTuxedoOper.13540.3495883200.0: 01-07-2024: Tuxedo Version 12.2.2.0.0, 64-bit
+193900.localhost.localdomain!srvTuxedoOper.13540.3495883200.0: LIBTUX_CAT:262: INFO: Standard main starting
+193900.localhost.localdomain!srvTuxedoOper.13540.3495883200.0: Iniciando srvTuxedo
+194148.localhost.localdomain!srvTuxedoOper.13540.3495883200.0: LIBTUX_CAT:522: INFO: Default tpsvrdone() function used
+194151.localhost.localdomain!BBL.13522.3898200512.0: CMDTUX_CAT:26: INFO: The BBL is exiting system
+194205.localhost.localdomain!tmloadcf.14075.2135486912.-2: 01-07-2024: Tuxedo Version 12.2.2.0.0, 64-bit
+194205.localhost.localdomain!tmloadcf.14075.2135486912.-2: CMDTUX_CAT:872: INFO: TUXCONFIG file /home/oracle/tuxedo/conf/tuxconfig has been updated
+194212.localhost.localdomain!BBL.14118.1617801664.0: 01-07-2024: Tuxedo Version 12.2.2.0.0, 64-bit, Patch Level (none)
+194212.localhost.localdomain!BBL.14118.1617801664.0: LIBTUX_CAT:262: INFO: Standard main starting
+194212.localhost.localdomain!srvTuxedoOper.14126.3890483648.0: 01-07-2024: Tuxedo Version 12.2.2.0.0, 64-bit
+194212.localhost.localdomain!srvTuxedoOper.14126.3890483648.0: LIBTUX_CAT:262: INFO: Standard main starting
+194212.localhost.localdomain!srvTuxedoOper.14126.3890483648.0: Iniciando srvTuxedo
+194218.localhost.localdomain!srvTuxedoOper.14126.3890483648.0: Servicio svcCalcAreaCirculo Invocado.
+194218.localhost.localdomain!srvTuxedoOper.14126.3890483648.0: Area del círculo: [113.094002]
+194615.localhost.localdomain!srvTuxedoOper.14126.3890483648.0: LIBTUX_CAT:522: INFO: Default tpsvrdone() function used
+194618.localhost.localdomain!BBL.14118.1617801664.0: CMDTUX_CAT:26: INFO: The BBL is exiting system
+200117.localhost.localdomain!tmloadcf.16320.3181408704.-2: 01-07-2024: Tuxedo Version 12.2.2.0.0, 64-bit
+200117.localhost.localdomain!tmloadcf.16320.3181408704.-2: CMDTUX_CAT:872: INFO: TUXCONFIG file /home/oracle/tuxedo/conf/tuxconfig has been updated
+200124.localhost.localdomain!BBL.16356.1300079040.0: 01-07-2024: Tuxedo Version 12.2.2.0.0, 64-bit, Patch Level (none)
+200124.localhost.localdomain!BBL.16356.1300079040.0: LIBTUX_CAT:262: INFO: Standard main starting
+200124.localhost.localdomain!srvTuxedoOper.16364.2074517952.0: 01-07-2024: Tuxedo Version 12.2.2.0.0, 64-bit
+200124.localhost.localdomain!srvTuxedoOper.16364.2074517952.0: LIBTUX_CAT:262: INFO: Standard main starting
+200124.localhost.localdomain!srvTuxedoOper.16364.2074517952.0: Iniciando srvTuxedo
+200259.localhost.localdomain!srvTuxedoOper.16364.2074517952.0: Servicio svcCalcEcSegGrado Invocado.
+200259.localhost.localdomain!srvTuxedoOper.16364.2074517952.0: Raíz 1: [-1.381966]
+200259.localhost.localdomain!srvTuxedoOper.16364.2074517952.0: Raíz 2: [-3.618034]
+200536.localhost.localdomain!srvTuxedoOper.16364.2074517952.0: LIBTUX_CAT:522: INFO: Default tpsvrdone() function used
+200539.localhost.localdomain!BBL.16356.1300079040.0: CMDTUX_CAT:26: INFO: The BBL is exiting system
+200604.localhost.localdomain!tmloadcf.17181.1860755904.-2: 01-07-2024: Tuxedo Version 12.2.2.0.0, 64-bit
+200604.localhost.localdomain!tmloadcf.17181.1860755904.-2: CMDTUX_CAT:872: INFO: TUXCONFIG file /home/oracle/tuxedo/conf/tuxconfig has been updated
+200612.localhost.localdomain!BBL.17230.463544768.0: 01-07-2024: Tuxedo Version 12.2.2.0.0, 64-bit, Patch Level (none)
+200612.localhost.localdomain!BBL.17230.463544768.0: LIBTUX_CAT:262: INFO: Standard main starting
+200612.localhost.localdomain!srvTuxedoOper.17246.271004096.0: 01-07-2024: Tuxedo Version 12.2.2.0.0, 64-bit
+200612.localhost.localdomain!srvTuxedoOper.17246.271004096.0: LIBTUX_CAT:262: INFO: Standard main starting
+200612.localhost.localdomain!srvTuxedoOper.17246.271004096.0: Iniciando srvTuxedo
+200617.localhost.localdomain!srvTuxedoOper.17246.271004096.0: Servicio svcCalcEcSegGrado Invocado.
+200617.localhost.localdomain!srvTuxedoOper.17246.271004096.0: Raíz 1: [-1.381966]  Raíz 2: [-3.618034]
+200910.localhost.localdomain!srvTuxedoOper.17246.271004096.0: LIBTUX_CAT:522: INFO: Default tpsvrdone() function used
+200913.localhost.localdomain!BBL.17230.463544768.0: CMDTUX_CAT:26: INFO: The BBL is exiting system
+200929.localhost.localdomain!tmloadcf.17652.4184289728.-2: 01-07-2024: Tuxedo Version 12.2.2.0.0, 64-bit
+200929.localhost.localdomain!tmloadcf.17652.4184289728.-2: CMDTUX_CAT:872: INFO: TUXCONFIG file /home/oracle/tuxedo/conf/tuxconfig has been updated
+200935.localhost.localdomain!BBL.17686.3274850752.0: 01-07-2024: Tuxedo Version 12.2.2.0.0, 64-bit, Patch Level (none)
+200935.localhost.localdomain!BBL.17686.3274850752.0: LIBTUX_CAT:262: INFO: Standard main starting
+200935.localhost.localdomain!srvTuxedoOper.17694.3298562496.0: 01-07-2024: Tuxedo Version 12.2.2.0.0, 64-bit
+200935.localhost.localdomain!srvTuxedoOper.17694.3298562496.0: LIBTUX_CAT:262: INFO: Standard main starting
+200935.localhost.localdomain!srvTuxedoOper.17694.3298562496.0: Iniciando srvTuxedo
+200943.localhost.localdomain!srvTuxedoOper.17694.3298562496.0: Servicio svcCalcEcSegGrado Invocado.
+200943.localhost.localdomain!srvTuxedoOper.17694.3298562496.0: Raíz 1: [-1.381966]  Raíz 2: [-3.618034]
+201137.localhost.localdomain!srvTuxedoOper.17694.3298562496.0: LIBTUX_CAT:522: INFO: Default tpsvrdone() function used
+201140.localhost.localdomain!BBL.17686.3274850752.0: CMDTUX_CAT:26: INFO: The BBL is exiting system
+201201.localhost.localdomain!tmloadcf.18057.3084767680.-2: 01-07-2024: Tuxedo Version 12.2.2.0.0, 64-bit
+201201.localhost.localdomain!tmloadcf.18057.3084767680.-2: CMDTUX_CAT:872: INFO: TUXCONFIG file /home/oracle/tuxedo/conf/tuxconfig has been updated
+201208.localhost.localdomain!BBL.18132.2537255360.0: 01-07-2024: Tuxedo Version 12.2.2.0.0, 64-bit, Patch Level (none)
+201208.localhost.localdomain!BBL.18132.2537255360.0: LIBTUX_CAT:262: INFO: Standard main starting
+201208.localhost.localdomain!srvTuxedoOper.18148.3884601792.0: 01-07-2024: Tuxedo Version 12.2.2.0.0, 64-bit
+201208.localhost.localdomain!srvTuxedoOper.18148.3884601792.0: LIBTUX_CAT:262: INFO: Standard main starting
+201208.localhost.localdomain!srvTuxedoOper.18148.3884601792.0: Iniciando srvTuxedo
+201225.localhost.localdomain!srvTuxedoOper.18148.3884601792.0: Servicio svcCalcEcSegGrado Invocado.
+201225.localhost.localdomain!srvTuxedoOper.18148.3884601792.0: Raíz 1: [-1.381966]  Raíz 2: [-3.618034]
+203102.localhost.localdomain!srvTuxedoOper.18148.3884601792.0: LIBTUX_CAT:522: INFO: Default tpsvrdone() function used
+203105.localhost.localdomain!BBL.18132.2537255360.0: CMDTUX_CAT:26: INFO: The BBL is exiting system
+203153.localhost.localdomain!tmloadcf.20599.2309095872.-2: 01-07-2024: Tuxedo Version 12.2.2.0.0, 64-bit
+203153.localhost.localdomain!tmloadcf.20599.2309095872.-2: CMDTUX_CAT:872: INFO: TUXCONFIG file /home/oracle/tuxedo/conf/tuxconfig has been updated
+203159.localhost.localdomain!BBL.20633.1872232896.0: 01-07-2024: Tuxedo Version 12.2.2.0.0, 64-bit, Patch Level (none)
+203159.localhost.localdomain!BBL.20633.1872232896.0: LIBTUX_CAT:262: INFO: Standard main starting
+203159.localhost.localdomain!srvTuxedoOper.20641.4260925888.0: 01-07-2024: Tuxedo Version 12.2.2.0.0, 64-bit
+203159.localhost.localdomain!srvTuxedoOper.20641.4260925888.0: LIBTUX_CAT:262: INFO: Standard main starting
+203159.localhost.localdomain!srvTuxedoOper.20641.4260925888.0: Iniciando srvTuxedo
+203210.localhost.localdomain!srvTuxedoOper.20641.4260925888.0: Servicio svcCalcEcSegGrado Invocado.
+203210.localhost.localdomain!srvTuxedoOper.20641.4260925888.0: Raíz 1: [-1.500000]  Raíz 2: [-3.500000]
+203420.localhost.localdomain!srvTuxedoOper.20641.4260925888.0: LIBTUX_CAT:522: INFO: Default tpsvrdone() function used
+203423.localhost.localdomain!BBL.20633.1872232896.0: CMDTUX_CAT:26: INFO: The BBL is exiting system
+203443.localhost.localdomain!tmloadcf.20972.2764284352.-2: 01-07-2024: Tuxedo Version 12.2.2.0.0, 64-bit
+203443.localhost.localdomain!tmloadcf.20972.2764284352.-2: CMDTUX_CAT:872: INFO: TUXCONFIG file /home/oracle/tuxedo/conf/tuxconfig has been updated
+203453.localhost.localdomain!BBL.21016.3025146304.0: 01-07-2024: Tuxedo Version 12.2.2.0.0, 64-bit, Patch Level (none)
+203453.localhost.localdomain!BBL.21016.3025146304.0: LIBTUX_CAT:262: INFO: Standard main starting
+203453.localhost.localdomain!srvTuxedoOper.21058.1829618112.0: 01-07-2024: Tuxedo Version 12.2.2.0.0, 64-bit
+203453.localhost.localdomain!srvTuxedoOper.21058.1829618112.0: LIBTUX_CAT:262: INFO: Standard main starting
+203453.localhost.localdomain!srvTuxedoOper.21058.1829618112.0: Iniciando srvTuxedo
+203458.localhost.localdomain!srvTuxedoOper.21058.1829618112.0: Servicio svcCalcEcSegGrado Invocado.
+203458.localhost.localdomain!srvTuxedoOper.21058.1829618112.0: Raíz 1: [-1.5]  Raíz 2: [-3.5]
+203606.localhost.localdomain!srvTuxedoOper.21058.1829618112.0: LIBTUX_CAT:522: INFO: Default tpsvrdone() function used
+203609.localhost.localdomain!BBL.21016.3025146304.0: CMDTUX_CAT:26: INFO: The BBL is exiting system
+203625.localhost.localdomain!tmloadcf.21333.3620434368.-2: 01-07-2024: Tuxedo Version 12.2.2.0.0, 64-bit
+203625.localhost.localdomain!tmloadcf.21333.3620434368.-2: CMDTUX_CAT:872: INFO: TUXCONFIG file /home/oracle/tuxedo/conf/tuxconfig has been updated
+203630.localhost.localdomain!BBL.21365.2453873088.0: 01-07-2024: Tuxedo Version 12.2.2.0.0, 64-bit, Patch Level (none)
+203630.localhost.localdomain!BBL.21365.2453873088.0: LIBTUX_CAT:262: INFO: Standard main starting
+203630.localhost.localdomain!srvTuxedoOper.21373.2795958720.0: 01-07-2024: Tuxedo Version 12.2.2.0.0, 64-bit
+203630.localhost.localdomain!srvTuxedoOper.21373.2795958720.0: LIBTUX_CAT:262: INFO: Standard main starting
+203630.localhost.localdomain!srvTuxedoOper.21373.2795958720.0: Iniciando srvTuxedo
+203635.localhost.localdomain!srvTuxedoOper.21373.2795958720.0: Servicio svcCalcEcSegGrado Invocado.
+203830.localhost.localdomain!BBL.21365.2453873088.0: LIBTUX_CAT:541: WARN: Server BIBLIO/10 terminated
+203830.localhost.localdomain!BBL.21365.2453873088.0: LIBTUX_CAT:550: WARN: Cleaning up restartable server BIBLIO/10
+203830.localhost.localdomain!cleanupsrv.21629.3677618624.-2: 01-07-2024: Tuxedo Version 12.2.2.0.0, 64-bit
+203830.localhost.localdomain!cleanupsrv.21629.3677618624.-2: server BIBLIO/10: CMDTUX_CAT:1074: WARN: Client process 21404 - dropped message because server and client died, SERVICE=svcCalcEcSegGrado
+203830.localhost.localdomain!cleanupsrv.21629.3677618624.-2: ERROR: msgrcv err(LIBTUX_CAT:669: ERROR: Message operation failed because of the invalid message queue identifier): errno=22,qid=-1,buf=34364120,bytes=4712,type=-1073741824,flag=2048
+203830.localhost.localdomain!cleanupsrv.21629.3677618624.-2: server BIBLIO/10: CMDTUX_CAT:551: INFO: server removed
+203833.localhost.localdomain!BBL.21365.2453873088.0: LIBTUX_CAT:216: WARN: Process 21373 died; removing from BB
+203833.localhost.localdomain!BBL.21365.2453873088.0: CMDTUX_CAT:26: INFO: The BBL is exiting system
+203900.localhost.localdomain!tmloadcf.21791.4169707968.-2: 01-07-2024: Tuxedo Version 12.2.2.0.0, 64-bit
+203900.localhost.localdomain!tmloadcf.21791.4169707968.-2: CMDTUX_CAT:872: INFO: TUXCONFIG file /home/oracle/tuxedo/conf/tuxconfig has been updated
+204049.localhost.localdomain!tmloadcf.22728.464646592.-2: 01-07-2024: Tuxedo Version 12.2.2.0.0, 64-bit
+204049.localhost.localdomain!tmloadcf.22728.464646592.-2: CMDTUX_CAT:872: INFO: TUXCONFIG file /home/oracle/tuxedo/conf/tuxconfig has been updated
+204104.localhost.localdomain!BBL.22785.725881280.0: 01-07-2024: Tuxedo Version 12.2.2.0.0, 64-bit, Patch Level (none)
+204104.localhost.localdomain!BBL.22785.725881280.0: LIBTUX_CAT:262: INFO: Standard main starting
+204104.localhost.localdomain!srvTuxedoOper.22793.1075106240.0: 01-07-2024: Tuxedo Version 12.2.2.0.0, 64-bit
+204104.localhost.localdomain!srvTuxedoOper.22793.1075106240.0: LIBTUX_CAT:262: INFO: Standard main starting
+204104.localhost.localdomain!srvTuxedoOper.22793.1075106240.0: Iniciando srvTuxedo
+204111.localhost.localdomain!srvTuxedoOper.22793.1075106240.0: Servicio svcCalcEcSegGrado Invocado.
+204111.localhost.localdomain!srvTuxedoOper.22793.1075106240.0: Raíz 1: [-2]  Raíz 2: [-4]
+204209.localhost.localdomain!srvTuxedoOper.22793.1075106240.0: LIBTUX_CAT:522: INFO: Default tpsvrdone() function used
+204212.localhost.localdomain!BBL.22785.725881280.0: CMDTUX_CAT:26: INFO: The BBL is exiting system
+204247.localhost.localdomain!tmloadcf.23115.1764417984.-2: 01-07-2024: Tuxedo Version 12.2.2.0.0, 64-bit
+204247.localhost.localdomain!tmloadcf.23115.1764417984.-2: CMDTUX_CAT:872: INFO: TUXCONFIG file /home/oracle/tuxedo/conf/tuxconfig has been updated
+204254.localhost.localdomain!BBL.23162.412172736.0: 01-07-2024: Tuxedo Version 12.2.2.0.0, 64-bit, Patch Level (none)
+204254.localhost.localdomain!BBL.23162.412172736.0: LIBTUX_CAT:262: INFO: Standard main starting
+204254.localhost.localdomain!srvTuxedoOper.23169.932708800.0: 01-07-2024: Tuxedo Version 12.2.2.0.0, 64-bit
+204254.localhost.localdomain!srvTuxedoOper.23169.932708800.0: LIBTUX_CAT:262: INFO: Standard main starting
+204254.localhost.localdomain!srvTuxedoOper.23169.932708800.0: Iniciando srvTuxedo
+204303.localhost.localdomain!srvTuxedoOper.23169.932708800.0: Servicio svcCalcEcSegGrado Invocado.
+204303.localhost.localdomain!srvTuxedoOper.23169.932708800.0: Raíz 1: -2  Raíz 2: -4
+204416.localhost.localdomain!srvTuxedoOper.23169.932708800.0: LIBTUX_CAT:522: INFO: Default tpsvrdone() function used
+204419.localhost.localdomain!BBL.23162.412172736.0: CMDTUX_CAT:26: INFO: The BBL is exiting system
+204454.localhost.localdomain!tmloadcf.23451.3363361216.-2: 01-07-2024: Tuxedo Version 12.2.2.0.0, 64-bit
+204454.localhost.localdomain!tmloadcf.23451.3363361216.-2: CMDTUX_CAT:872: INFO: TUXCONFIG file /home/oracle/tuxedo/conf/tuxconfig has been updated
+204505.localhost.localdomain!BBL.23520.521712064.0: 01-07-2024: Tuxedo Version 12.2.2.0.0, 64-bit, Patch Level (none)
+204505.localhost.localdomain!BBL.23520.521712064.0: LIBTUX_CAT:262: INFO: Standard main starting
+204505.localhost.localdomain!srvTuxedoOper.23527.2929979840.0: 01-07-2024: Tuxedo Version 12.2.2.0.0, 64-bit
+204505.localhost.localdomain!srvTuxedoOper.23527.2929979840.0: LIBTUX_CAT:262: INFO: Standard main starting
+204505.localhost.localdomain!srvTuxedoOper.23527.2929979840.0: Iniciando srvTuxedo
+204511.localhost.localdomain!srvTuxedoOper.23527.2929979840.0: Servicio svcCalcEcSegGrado Invocado.
+204511.localhost.localdomain!srvTuxedoOper.23527.2929979840.0: Raíz 1: -2  Raíz 2: -4
+204538.localhost.localdomain!srvTuxedoOper.23527.2929979840.0: LIBTUX_CAT:522: INFO: Default tpsvrdone() function used
+204541.localhost.localdomain!BBL.23520.521712064.0: CMDTUX_CAT:26: INFO: The BBL is exiting system
+212922.localhost.localdomain!tmloadcf.26700.1902105024.-2: 01-07-2024: Tuxedo Version 12.2.2.0.0, 64-bit
+212922.localhost.localdomain!tmloadcf.26700.1902105024.-2: CMDTUX_CAT:872: INFO: TUXCONFIG file /home/oracle/tuxedo/conf/tuxconfig has been updated
+212934.localhost.localdomain!BBL.26765.1116369344.0: 01-07-2024: Tuxedo Version 12.2.2.0.0, 64-bit, Patch Level (none)
+212934.localhost.localdomain!BBL.26765.1116369344.0: LIBTUX_CAT:262: INFO: Standard main starting
+212934.localhost.localdomain!srvTuxedoOper.26781.2725773760.0: 01-07-2024: Tuxedo Version 12.2.2.0.0, 64-bit
+212934.localhost.localdomain!srvTuxedoOper.26781.2725773760.0: LIBTUX_CAT:262: INFO: Standard main starting
+212934.localhost.localdomain!srvTuxedoOper.26781.2725773760.0: Iniciando srvTuxedo
+212940.localhost.localdomain!srvTuxedoOper.26781.2725773760.0: Servicio svcCalcEcSegGrado Invocado.
+212940.localhost.localdomain!srvTuxedoOper.26781.2725773760.0: Raíz 1: -2  Raíz 2: -4
+213127.localhost.localdomain!srvTuxedoOper.26781.2725773760.0: Servicio servCalcProdPunto Invocado.
+213127.localhost.localdomain!srvTuxedoOper.26781.2725773760.0: Producto punto: [15.000000]
+213624.localhost.localdomain!srvTuxedoOper.26781.2725773760.0: LIBTUX_CAT:522: INFO: Default tpsvrdone() function used
+213627.localhost.localdomain!BBL.26765.1116369344.0: CMDTUX_CAT:26: INFO: The BBL is exiting system
+213839.localhost.localdomain!tmloadcf.28324.934449600.-2: 01-07-2024: Tuxedo Version 12.2.2.0.0, 64-bit
+213839.localhost.localdomain!tmloadcf.28324.934449600.-2: CMDTUX_CAT:872: INFO: TUXCONFIG file /home/oracle/tuxedo/conf/tuxconfig has been updated
+213845.localhost.localdomain!BBL.28364.531354048.0: 01-07-2024: Tuxedo Version 12.2.2.0.0, 64-bit, Patch Level (none)
+213845.localhost.localdomain!BBL.28364.531354048.0: LIBTUX_CAT:262: INFO: Standard main starting
+213845.localhost.localdomain!srvTuxedoOper.28388.2583458240.0: 01-07-2024: Tuxedo Version 12.2.2.0.0, 64-bit
+213845.localhost.localdomain!srvTuxedoOper.28388.2583458240.0: LIBTUX_CAT:262: INFO: Standard main starting
+213845.localhost.localdomain!srvTuxedoOper.28388.2583458240.0: Iniciando srvTuxedo
+213850.localhost.localdomain!srvTuxedoOper.28388.2583458240.0: Servicio servCalcProdPunto Invocado.
+213850.localhost.localdomain!srvTuxedoOper.28388.2583458240.0: Producto punto: [15.000000]
+214335.localhost.localdomain!srvTuxedoOper.28388.2583458240.0: LIBTUX_CAT:522: INFO: Default tpsvrdone() function used
+214338.localhost.localdomain!BBL.28364.531354048.0: CMDTUX_CAT:26: INFO: The BBL is exiting system
+214400.localhost.localdomain!tmloadcf.28928.4068147648.-2: 01-07-2024: Tuxedo Version 12.2.2.0.0, 64-bit
+214400.localhost.localdomain!tmloadcf.28928.4068147648.-2: CMDTUX_CAT:872: INFO: TUXCONFIG file /home/oracle/tuxedo/conf/tuxconfig has been updated
+214406.localhost.localdomain!BBL.28965.3402351040.0: 01-07-2024: Tuxedo Version 12.2.2.0.0, 64-bit, Patch Level (none)
+214406.localhost.localdomain!BBL.28965.3402351040.0: LIBTUX_CAT:262: INFO: Standard main starting
+214406.localhost.localdomain!srvTuxedoOper.28973.181178816.0: 01-07-2024: Tuxedo Version 12.2.2.0.0, 64-bit
+214406.localhost.localdomain!srvTuxedoOper.28973.181178816.0: LIBTUX_CAT:262: INFO: Standard main starting
+214406.localhost.localdomain!srvTuxedoOper.28973.181178816.0: Iniciando srvTuxedo
+214413.localhost.localdomain!srvTuxedoOper.28973.181178816.0: Servicio servCalcProdPunto Invocado.
+214413.localhost.localdomain!srvTuxedoOper.28973.181178816.0: Producto punto: [15.000000]
+214511.localhost.localdomain!srvTuxedoOper.28973.181178816.0: LIBTUX_CAT:522: INFO: Default tpsvrdone() function used
+214514.localhost.localdomain!BBL.28965.3402351040.0: CMDTUX_CAT:26: INFO: The BBL is exiting system
+214528.localhost.localdomain!tmloadcf.29244.2258289088.-2: 01-07-2024: Tuxedo Version 12.2.2.0.0, 64-bit
+214528.localhost.localdomain!tmloadcf.29244.2258289088.-2: CMDTUX_CAT:872: INFO: TUXCONFIG file /home/oracle/tuxedo/conf/tuxconfig has been updated
+214534.localhost.localdomain!BBL.29286.837624256.0: 01-07-2024: Tuxedo Version 12.2.2.0.0, 64-bit, Patch Level (none)
+214534.localhost.localdomain!BBL.29286.837624256.0: LIBTUX_CAT:262: INFO: Standard main starting
+214534.localhost.localdomain!srvTuxedoOper.29293.3781640640.0: 01-07-2024: Tuxedo Version 12.2.2.0.0, 64-bit
+214534.localhost.localdomain!srvTuxedoOper.29293.3781640640.0: LIBTUX_CAT:262: INFO: Standard main starting
+214534.localhost.localdomain!srvTuxedoOper.29293.3781640640.0: Iniciando srvTuxedo
+214541.localhost.localdomain!srvTuxedoOper.29293.3781640640.0: Servicio servCalcProdPunto Invocado.
+214541.localhost.localdomain!srvTuxedoOper.29293.3781640640.0: Producto punto: [23.000000]
+214710.localhost.localdomain!srvTuxedoOper.29293.3781640640.0: Servicio svcCalcEcSegGrado Invocado.
+214710.localhost.localdomain!srvTuxedoOper.29293.3781640640.0: Raíz 1: -2  Raíz 2: -3
+214828.localhost.localdomain!srvTuxedoOper.29293.3781640640.0: LIBTUX_CAT:522: INFO: Default tpsvrdone() function used
+214831.localhost.localdomain!BBL.29286.837624256.0: CMDTUX_CAT:26: INFO: The BBL is exiting system
+214857.localhost.localdomain!tmloadcf.29692.1869410752.-2: 01-07-2024: Tuxedo Version 12.2.2.0.0, 64-bit
+214857.localhost.localdomain!tmloadcf.29692.1869410752.-2: CMDTUX_CAT:872: INFO: TUXCONFIG file /home/oracle/tuxedo/conf/tuxconfig has been updated
+214904.localhost.localdomain!BBL.29725.2593186240.0: 01-07-2024: Tuxedo Version 12.2.2.0.0, 64-bit, Patch Level (none)
+214904.localhost.localdomain!BBL.29725.2593186240.0: LIBTUX_CAT:262: INFO: Standard main starting
+214904.localhost.localdomain!srvTuxedoOper.29733.4259492288.0: 01-07-2024: Tuxedo Version 12.2.2.0.0, 64-bit
+214904.localhost.localdomain!srvTuxedoOper.29733.4259492288.0: LIBTUX_CAT:262: INFO: Standard main starting
+214904.localhost.localdomain!srvTuxedoOper.29733.4259492288.0: Iniciando srvTuxedo
+214908.localhost.localdomain!srvTuxedoOper.29733.4259492288.0: Servicio svcCalcEcSegGrado Invocado.
+214908.localhost.localdomain!srvTuxedoOper.29733.4259492288.0: Raíz 1: -2  Raíz 2: -3
+215004.localhost.localdomain!srvTuxedoOper.29733.4259492288.0: LIBTUX_CAT:522: INFO: Default tpsvrdone() function used
+215007.localhost.localdomain!BBL.29725.2593186240.0: CMDTUX_CAT:26: INFO: The BBL is exiting system
+215042.localhost.localdomain!tmloadcf.30021.3432153536.-2: 01-07-2024: Tuxedo Version 12.2.2.0.0, 64-bit
+215042.localhost.localdomain!tmloadcf.30021.3432153536.-2: CMDTUX_CAT:872: INFO: TUXCONFIG file /home/oracle/tuxedo/conf/tuxconfig has been updated
+215049.localhost.localdomain!BBL.30076.2413179328.0: 01-07-2024: Tuxedo Version 12.2.2.0.0, 64-bit, Patch Level (none)
+215049.localhost.localdomain!BBL.30076.2413179328.0: LIBTUX_CAT:262: INFO: Standard main starting
+215049.localhost.localdomain!srvTuxedoOper.30091.592536000.0: 01-07-2024: Tuxedo Version 12.2.2.0.0, 64-bit
+215049.localhost.localdomain!srvTuxedoOper.30091.592536000.0: LIBTUX_CAT:262: INFO: Standard main starting
+215049.localhost.localdomain!srvTuxedoOper.30091.592536000.0: Iniciando srvTuxedo
+215055.localhost.localdomain!srvTuxedoOper.30091.592536000.0: Servicio svcCalcEcSegGrado Invocado.
+215055.localhost.localdomain!srvTuxedoOper.30091.592536000.0: Raíz 1: -2  Raíz 2: -3
+215104.localhost.localdomain!srvTuxedoOper.30091.592536000.0: LIBTUX_CAT:522: INFO: Default tpsvrdone() function used
+215107.localhost.localdomain!BBL.30076.2413179328.0: CMDTUX_CAT:26: INFO: The BBL is exiting system
+215325.localhost.localdomain!BBL.30426.1893368256.0: 01-07-2024: Tuxedo Version 12.2.2.0.0, 64-bit, Patch Level (none)
+215325.localhost.localdomain!BBL.30426.1893368256.0: LIBTUX_CAT:262: INFO: Standard main starting
+215325.localhost.localdomain!srvTuxedoOper.30434.1248125376.0: 01-07-2024: Tuxedo Version 12.2.2.0.0, 64-bit
+215325.localhost.localdomain!srvTuxedoOper.30434.1248125376.0: LIBTUX_CAT:262: INFO: Standard main starting
+215325.localhost.localdomain!srvTuxedoOper.30434.1248125376.0: Iniciando srvTuxedo
+215331.localhost.localdomain!srvTuxedoOper.30434.1248125376.0: Servicio svcCalcEcSegGrado Invocado.
+215331.localhost.localdomain!srvTuxedoOper.30434.1248125376.0: Raíz 1: 3  Raíz 2: 2
+215526.localhost.localdomain!srvTuxedoOper.30434.1248125376.0: LIBTUX_CAT:522: INFO: Default tpsvrdone() function used
+215529.localhost.localdomain!BBL.30426.1893368256.0: CMDTUX_CAT:26: INFO: The BBL is exiting system
+215619.localhost.localdomain!tmloadcf.30807.405893568.-2: 01-07-2024: Tuxedo Version 12.2.2.0.0, 64-bit
+215619.localhost.localdomain!tmloadcf.30807.405893568.-2: CMDTUX_CAT:872: INFO: TUXCONFIG file /home/oracle/tuxedo/conf/tuxconfig has been updated
+215624.localhost.localdomain!BBL.30840.2119991744.0: 01-07-2024: Tuxedo Version 12.2.2.0.0, 64-bit, Patch Level (none)
+215624.localhost.localdomain!BBL.30840.2119991744.0: LIBTUX_CAT:262: INFO: Standard main starting
+215625.localhost.localdomain!srvTuxedoOper.30850.3472847296.0: 01-07-2024: Tuxedo Version 12.2.2.0.0, 64-bit
+215625.localhost.localdomain!srvTuxedoOper.30850.3472847296.0: LIBTUX_CAT:262: INFO: Standard main starting
+215625.localhost.localdomain!srvTuxedoOper.30850.3472847296.0: Iniciando srvTuxedo
+215636.localhost.localdomain!srvTuxedoOper.30850.3472847296.0: Servicio svcCalcEcSegGrado Invocado.
+215636.localhost.localdomain!srvTuxedoOper.30850.3472847296.0: Raíz 1: -2  Raíz 2: -3
+215652.localhost.localdomain!srvTuxedoOper.30850.3472847296.0: LIBTUX_CAT:522: INFO: Default tpsvrdone() function used
+215655.localhost.localdomain!BBL.30840.2119991744.0: CMDTUX_CAT:26: INFO: The BBL is exiting system
+215722.localhost.localdomain!BBL.31133.2655375808.0: 01-07-2024: Tuxedo Version 12.2.2.0.0, 64-bit, Patch Level (none)
+215722.localhost.localdomain!BBL.31133.2655375808.0: LIBTUX_CAT:262: INFO: Standard main starting
+215722.localhost.localdomain!srvTuxedoOper.31143.3832299968.0: 01-07-2024: Tuxedo Version 12.2.2.0.0, 64-bit
+215722.localhost.localdomain!srvTuxedoOper.31143.3832299968.0: LIBTUX_CAT:262: INFO: Standard main starting
+215722.localhost.localdomain!srvTuxedoOper.31143.3832299968.0: Iniciando srvTuxedo
+215727.localhost.localdomain!srvTuxedoOper.31143.3832299968.0: Servicio svcCalcEcSegGrado Invocado.
+215727.localhost.localdomain!srvTuxedoOper.31143.3832299968.0: Raíz 1: -2  Raíz 2: -3
+215737.localhost.localdomain!srvTuxedoOper.31143.3832299968.0: Servicio svcCalcEcSegGrado Invocado.
+215737.localhost.localdomain!srvTuxedoOper.31143.3832299968.0: Raíz 1: 3  Raíz 2: 2
+215744.localhost.localdomain!srvTuxedoOper.31143.3832299968.0: Servicio servCalcProdPunto Invocado.
+215744.localhost.localdomain!srvTuxedoOper.31143.3832299968.0: Producto punto: [23.000000]
+215757.localhost.localdomain!srvTuxedoOper.31143.3832299968.0: Servicio svcCalcAreaCirculo Invocado.
+215757.localhost.localdomain!srvTuxedoOper.31143.3832299968.0: Area del círculo: [113.094002]
+215807.localhost.localdomain!srvTuxedoOper.31143.3832299968.0: LIBTUX_CAT:522: INFO: Default tpsvrdone() function used
+215810.localhost.localdomain!BBL.31133.2655375808.0: CMDTUX_CAT:26: INFO: The BBL is exiting system
+215843.localhost.localdomain!BBL.31483.2245931456.0: 01-07-2024: Tuxedo Version 12.2.2.0.0, 64-bit, Patch Level (none)
+215843.localhost.localdomain!BBL.31483.2245931456.0: LIBTUX_CAT:262: INFO: Standard main starting
+215843.localhost.localdomain!srvTuxedoOper.31491.2556420544.0: 01-07-2024: Tuxedo Version 12.2.2.0.0, 64-bit
+215843.localhost.localdomain!srvTuxedoOper.31491.2556420544.0: LIBTUX_CAT:262: INFO: Standard main starting
+215843.localhost.localdomain!srvTuxedoOper.31491.2556420544.0: Iniciando srvTuxedo
+215850.localhost.localdomain!srvTuxedoOper.31491.2556420544.0: Servicio svcCalcAreaCirculo Invocado.
+215850.localhost.localdomain!srvTuxedoOper.31491.2556420544.0: Area del círculo: [113.094002]
+220037.localhost.localdomain!srvTuxedoOper.31491.2556420544.0: LIBTUX_CAT:522: INFO: Default tpsvrdone() function used
+220040.localhost.localdomain!BBL.31483.2245931456.0: CMDTUX_CAT:26: INFO: The BBL is exiting system
+220235.localhost.localdomain!BBL.32040.733123008.0: 01-07-2024: Tuxedo Version 12.2.2.0.0, 64-bit, Patch Level (none)
+220235.localhost.localdomain!BBL.32040.733123008.0: LIBTUX_CAT:262: INFO: Standard main starting
+220235.localhost.localdomain!srvTuxedoOper.32048.1744380352.0: 01-07-2024: Tuxedo Version 12.2.2.0.0, 64-bit
+220235.localhost.localdomain!srvTuxedoOper.32048.1744380352.0: LIBTUX_CAT:262: INFO: Standard main starting
+220235.localhost.localdomain!srvTuxedoOper.32048.1744380352.0: Iniciando srvTuxedo
+220238.localhost.localdomain!srvTuxedoOper.32048.1744380352.0: Servicio svcCalcAreaCirculo Invocado.
+220238.localhost.localdomain!srvTuxedoOper.32048.1744380352.0: Area del círculo: [113.094002]
+220309.localhost.localdomain!srvTuxedoOper.32048.1744380352.0: LIBTUX_CAT:522: INFO: Default tpsvrdone() function used
+220312.localhost.localdomain!BBL.32040.733123008.0: CMDTUX_CAT:26: INFO: The BBL is exiting system
+233420.localhost.localdomain!BBL.9695.3421532608.0: 01-07-2024: Tuxedo Version 12.2.2.0.0, 64-bit, Patch Level (none)
+233420.localhost.localdomain!BBL.9695.3421532608.0: LIBTUX_CAT:262: INFO: Standard main starting
+233420.localhost.localdomain!srvTuxedoOper.9701.3590705600.0: 01-07-2024: Tuxedo Version 12.2.2.0.0, 64-bit
+233420.localhost.localdomain!srvTuxedoOper.9701.3590705600.0: LIBTUX_CAT:262: INFO: Standard main starting
+233420.localhost.localdomain!srvTuxedoOper.9701.3590705600.0: Iniciando srvTuxedo
+233538.localhost.localdomain!srvTuxedoOper.9701.3590705600.0: Servicio svcCalcAreaCirculo Invocado.
+233538.localhost.localdomain!srvTuxedoOper.9701.3590705600.0: Area del círculo: [113.094002]
+233909.localhost.localdomain!srvTuxedoOper.9701.3590705600.0: Servicio svcCalcEcSegGrado Invocado.
+233909.localhost.localdomain!srvTuxedoOper.9701.3590705600.0: Raíz 1: 3  Raíz 2: 2
+234227.localhost.localdomain!srvTuxedoOper.9701.3590705600.0: Servicio servCalcProdPunto Invocado.
+234227.localhost.localdomain!srvTuxedoOper.9701.3590705600.0: Producto punto: [23.000000]
+234303.localhost.localdomain!srvTuxedoOper.9701.3590705600.0: Servicio servCalcProdPunto Invocado.
+234303.localhost.localdomain!srvTuxedoOper.9701.3590705600.0: Producto punto: [23.000000]
+234538.localhost.localdomain!srvTuxedoOper.9701.3590705600.0: LIBTUX_CAT:522: INFO: Default tpsvrdone() function used
+234541.localhost.localdomain!BBL.9695.3421532608.0: CMDTUX_CAT:26: INFO: The BBL is exiting system
